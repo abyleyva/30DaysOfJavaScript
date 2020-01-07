@@ -1,3 +1,4 @@
+## Change to See conflicts and Fix to merge 
 ##  Table of Contents
 
 [Day 2 >>](https://github.com/Asabeneh/30DaysOfJavaScript/blob/master/02_Day/02_day_data_types.md)
@@ -5,7 +6,7 @@
 
 ![Thirty Days Of JavaScript](./images/day_1_1.png)
 
-- [📔Day 1](#%f0%9f%93%94day-1)
+- [📔Day 1 - Fix change by aby (testing by myself)](#%f0%9f%93%94day-1)
   - [Introduction](#introduction)
   - [Requirements](#requirements)
   - [Setup](#setup)
